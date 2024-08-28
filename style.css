@@ -1,0 +1,21 @@
+style.css
+body {
+    background-color: #6e6a6a !important;
+}
+img {
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+}
+
+.center img {
+    max-width: 50%; 
+}
+
+.bouquet-section img {
+    max-width: 30%; 
+}
+p, h1, h2, h3{
+    text-align: center;
+}
